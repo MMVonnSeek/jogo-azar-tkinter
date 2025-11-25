@@ -1,5 +1,8 @@
 # Jogo de Azar com Tkinter - Python
 
+![Autor: Max Muller](https://img.shields.io/badge/Autor-Max%20Muller-4B0082?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 Este projeto implementa um jogo simples de azar utilizando Python e a biblioteca Tkinter para interface gráfica.
 
 ## Como funciona
@@ -20,3 +23,12 @@ Ao clicar no botão **Jogar**, o sistema seleciona aleatoriamente três imagens 
 2. Instale a biblioteca Pillow para manipulação de imagens:  
    ```bash
    pip install Pillow
+
+---
+
+## Autor
+Professor: Max Müller
+
+Disciplina: Lógica de Programação 2° DS
+
+Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
